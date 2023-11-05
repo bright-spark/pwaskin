@@ -1,4 +1,4 @@
-# PWA Skin - "Little Gooey Video Player"
+# PWA Skin - "Little Gooey Skin"
 
 Tiny PWA wrapper for websites
 
