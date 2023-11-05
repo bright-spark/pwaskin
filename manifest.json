@@ -1,8 +1,8 @@
 {
-  "name": "Little Gooey Video Player",
-  "short_name": "SmooTube",
-  "description": "Tiny PWA for playing YouTube video playlists",
-  "start_url": "/videovault",
+  "name": "Little Gooey Skin",
+  "short_name": "PWA Skin",
+  "description": "Tiny PWA wrapper for websites",
+  "start_url": "/pwaskin",
   "display": "standalone",
   "icons": [
     {
