@@ -1,0 +1,30 @@
+iframe#myVideo {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: black;
+  }
+
+  iframe#myVideo {
+    border: 0px;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .navbar {
+    background-color: black;
+    color: black;
+  }
+
+  iframe#myVideo {
+      border: 0px;
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Little Gooey Video Player",
+  "short_name": "SmooTube",
+  "description": "Tiny PWA for playing YouTube video playlists",
+  "start_url": "/videovault",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192"
+    }
+  ]
+}
